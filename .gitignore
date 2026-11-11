@@ -1,0 +1,4 @@
+/target
+/out
+/.env
+/data/*.db
